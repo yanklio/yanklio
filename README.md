@@ -17,4 +17,4 @@ Hey there! I'm Yaroslav, a passionate programmer with a keen interest in web dev
 
 ---
 
-#### Feel free to explore my repositories and projects. If you have any questions or just want to connect, don't hesitate to reach out. Happy coding! 🚀✨
+### Feel free to explore my repositories and projects. If you have any questions or just want to connect, don't hesitate to reach out. Happy coding! 🚀✨
