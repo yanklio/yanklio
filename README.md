@@ -4,14 +4,14 @@ Hey there! I'm Yaroslav, a passionate programmer with a keen interest in web dev
 
 ---
 
-#### What I've Been Up To:
+### What I've Been Up To:
 
 🚀 Developing awesome web applications  
 💻 Coding in JS and TS  
 ⚛️ Building cool stuff with React  
 🌐 Exploring server-side scripting with Node.js (Express and NestJS)
 
-#### What's Catching My Eye:
+### What's Catching My Eye:
 
 🚀 Excited to dive into the world of Go language
 
