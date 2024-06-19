@@ -13,7 +13,7 @@ My coding journey has led me to work extensively with JavaScript (JS), TypeScrip
       srcset="https://github-readme-stats.vercel.app/api?username=Yaroslaw07&theme=light&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroslaw07&langs_count=8&layout=compact" />
+    <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api?username=Yaroslaw07&langs_count=8&layout=compact" />
   </picture>
   
   <picture>
@@ -25,7 +25,7 @@ My coding journey has led me to work extensively with JavaScript (JS), TypeScrip
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact&theme=light&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact" />
+    <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact" />
   </picture>
 
     
