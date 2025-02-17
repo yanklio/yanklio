@@ -1,7 +1,7 @@
 # Welcome to my Github! 👋
 
-Hey there! I'm Yaroslav, a passionate programmer with a keen interest in web development.
-My coding journey has led me to work extensively with JavaScript (JS), TypeScript (TS) and C#, expierenced developer of React (NextJS), NodeJS (NestJS, ExpressJS) and C#(.NET).
+Hey there! I'm Yaroslav, a __Front-end Developer__ at _Viseven_, primarily working with __Vue__. 
+I'm a passionate programmer with a keen interest in web development. My journey has led me to work extensively with __React (Next.js), Node.js, Go, C__ and .__NET (C#)__.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <picture>
@@ -33,12 +33,11 @@ My coding journey has led me to work extensively with JavaScript (JS), TypeScrip
 
 ---
 
-### What's Catching My Eye:
+### 🚀 What I'm Exploring
 
-📱 Want to learn more about mobile development with React Native  
-🐹 Excited to dive into the world of Go language  
-🚀 And continue to build amazing apps  
+💻 Building cool web apps with React & Node.js\
+🌍 Deepening my knowledge of web infrastructure with Go & C#\
+📱 Experimenting with mobile development using React Native
 
-### Feel free to explore my repositories and projects. If you have any questions or just want to connect, don't hesitate to reach out. Happy coding! 💻✨
-
+### Feel free to explore my repositories. Thanks for stopping by, and happy coding! 💻✨
 
