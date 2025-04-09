@@ -6,11 +6,11 @@ I'm a passionate programmer with a keen interest in web development. My journey 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Yaroslaw07&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
+      srcset="https://github-readme-stats.vercel.app/api?username=yarlaw&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Yaroslaw07&theme=light&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=yarlaw&theme=light&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api?username=Yaroslaw07&langs_count=8&layout=compact" />
@@ -18,11 +18,11 @@ I'm a passionate programmer with a keen interest in web development. My journey 
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yarlaw&langs_count=8&layout=compact&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact&theme=light&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yarlaw&langs_count=8&layout=compact&theme=light&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact" />
