@@ -35,7 +35,7 @@ But main focus as should be - always on __product__ 🏆
 ### 🚀 What I'm Exploring
 
 🌍 Evolving in web sphere using different technologies (Typescript, __React__, React Native, Angular, __NodeJs__, __Python__, ...)\
-🪄 Playing with LLM, Agents and ___AI___ (Github Copilot, Gemini CLI, Firebase Studio, ...) \
+🪄 Playing with LLM, Agents and __AI__ (Github Copilot, Gemini CLI, Firebase Studio, ...) \
 🐧 And continue to bless __Linux__ as OS (Currently on Fedora + Cosmic❤️, in future strong Vim user💪)
 
 ### Feel free to explore my repositories. Thanks for stopping by, and happy coding! 💻✨
