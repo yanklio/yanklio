@@ -1,6 +1,6 @@
-# Welcome to my Github! 👋
+# Welcome! 👋
 
-Hey there! I'm Yaroslav, a __Full-Stack Dev__ and interesting mostly in web technologies. Currently working in __Viseven__.
+And also hi! I'm Yaroslav, a __Full-Stack Dev__ and interesting mostly in web technologies. Currently working in __Viseven__.
 During my journey I used a lot of interesting technologies including __TypeScript__, __React (with recently popular Next.js)__, __NodeJs__,__Python__ and that's not all of them.
 But main focus as should be - always on __product__ 🏆
 
