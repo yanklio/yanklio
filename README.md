@@ -7,7 +7,7 @@ But main focus as should be - always on __product__ 🏆
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=yanklio&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
+      srcset="https://github-readme-stats.vercel.app/api?username=yanklio&bg_color=00000000&border_color=30363d&title_color=428ff2"
       media="(prefers-color-scheme: dark)"
     />
     <source
