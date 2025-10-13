@@ -11,7 +11,7 @@ But main focus as should be - always on __product__ 🏆
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=yanklio&theme=light&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=yanklio&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api?username=yanklio&langs_count=8&layout=compact" />
