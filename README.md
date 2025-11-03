@@ -7,7 +7,7 @@ But main focus as should be - always on __product__ 🏆
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <picture>
     <source
-      srcset="https://github-stats-olive-eight.vercel.app/api?username=yanklio&bg_color=00000000&border_color=30363d&title_color=428ff2"
+      srcset="https://github-stats-olive-eight.vercel.app/api?username=yanklio&bg_color=00000000&theme=dark&border_color=30363d&title_color=428ff2"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -23,7 +23,7 @@ But main focus as should be - always on __product__ 🏆
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-stats-olive-eight.vercel.app/api/top-langs/?username=yanklio&langs_count=8&layout=compact&theme=light&bg_color=00000000"
+      srcset="https://github-stats-olive-eight.vercel.app/api/top-langs/?username=yanklio&langs_count=8&layout=compact&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="200px" align="center" style="min-height: 200px" src="https://github-stats-olive-eight.vercel.app/api/top-langs/?username=yanklio&langs_count=8&layout=compact" />
